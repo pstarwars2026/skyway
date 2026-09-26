@@ -16,7 +16,7 @@ A new 2.5D action adventure planned for iPhone, iPad, and Mac. Run the forgotten
 | Replay without a timer or energy limit | One-time non-consumable purchase |
 | Run, jump, fire, and deflect | Shared iPhone/iPad/Mac ownership intended, pending validation |
 
-No purchases are currently available. Final artwork, additional chapters, save progress, real-device testing, and purchase/restore validation remain before release.
+No purchases are currently available. Final artwork, additional chapters, expanded campaign progression, real-device testing, and purchase/restore validation remain before release.
 
 ## Product repository, private source
 
