@@ -1,0 +1,29 @@
+name: Game feedback or support
+description: Report a problem or suggest an improvement.
+title: "[Feedback] "
+body:
+  - type: markdown
+    attributes:
+      value: "V2 is in development. This report will be public. Do not share receipts, account details, or personal information."
+  - type: input
+    id: device
+    attributes:
+      label: Device and operating system
+      placeholder: "For example: MacBook Air, macOS version"
+  - type: dropdown
+    id: input
+    attributes:
+      label: Input method
+      options:
+        - Keyboard
+        - Mouse or trackpad
+        - Touch
+        - Controller
+        - Website feedback
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What happened, or what would you like improved?
+      description: Include steps and what you expected. Keep private information out.
+    validations:
+      required: true
